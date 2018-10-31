@@ -111,7 +111,7 @@ welcome = """
 <body id="sample">
   <div class="textColumn">
     <h1>Congratulations</h1>
-    <p>AWS Elastic Beanstalk Python Application</p>
+    <p>AWS Elastic Beanstalk Python App</p>
   </div>
   
   <div class="linksColumn"> 
